@@ -12,7 +12,7 @@ Open your terminal and type these:
 
 1. **Login Page**
     <div>
-      <img src="images/all.png" width="90%" title="whole-page">
+      <img src="screenshots/all.png" width="90%" title="whole-page">
     </div>
 
 
