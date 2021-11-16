@@ -5,14 +5,14 @@
 
 Open your terminal and type these:
 1. `git clone https://github.com/tuntunpandit/Landing-Page.git`
-2. `npm install`
-3. `ng serve -o`
+<!-- 2. `npm install`
+3. `ng serve -o` -->
 
 # Screeshots
 
 1. **Login Page**
     <div>
-      <img src="iamges/all.png" width="90%" title="whole-page">
+      <img src="screenshots/all.png" width="90%" title="whole-page">
     </div>
 
 
